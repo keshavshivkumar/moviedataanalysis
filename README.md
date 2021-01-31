@@ -70,6 +70,7 @@ ALS algorithm on the training model:
 Evaluation:
 
 ![image](https://user-images.githubusercontent.com/57229722/106375407-b8757a00-63b1-11eb-84e4-73428711eb4c.png)
+
 The RMSE for the test data was 0.813714
 
 Recommendations:
